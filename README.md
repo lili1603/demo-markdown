@@ -5,9 +5,9 @@ Apprendre le **Markdown**
 
 ---
 ## Technos 
-**1. Git
+1. Git
 2. Markdown
-3. Vs code**
+3. Vs code
 
 
 ## Images
@@ -17,11 +17,11 @@ Apprendre le **Markdown**
 
 
 # Liens 
-!**(**[**GitHub · Change is constant. GitHub keeps you ahead******. · **GitHub**][https://github.com/])
+!([GitHub · Change is constant. GitHub keeps you ahead******. · GitHub][https://github.com/])
 
-```` html
+``` html
 <h1>Hello from h1</h1>
-````
+```
 
 
 
