@@ -17,7 +17,7 @@ Apprendre le **Markdown**
 
 
 # Liens 
-!([GitHub · Change is constant. GitHub keeps you ahead******. · GitHub][https://github.com/])
+[GitHub · Change is constant. GitHub keeps you ahead******. · GitHub](https://github.com/)
 
 ``` html
 <h1>Hello from h1</h1>
